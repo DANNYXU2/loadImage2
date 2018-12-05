@@ -13,3 +13,4 @@ void draw() {
   noStroke();
    image(img,0,0,640,360);
   image(earth,mouseX,mouseY);
+}
